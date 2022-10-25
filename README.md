@@ -1,2 +1,2 @@
-# Arduino
-Projects or code for ATMEGA and ATTiny devices
+# Atmel devices
+(projects/code for ATMEGA and ATTiny devices)
